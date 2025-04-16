@@ -1,10 +1,8 @@
 import React from "react";
-import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact } from "react-icons/fa";
-import { SiRadis } from "react-icons/si";
-import { FaGoogle } from "react-icons/fa";
-import { SiMongodb } from "react-icons/si";
+import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact, FaGoogle, FaAmazon } from "react-icons/fa";
+import { SiRedis, SiMongodb } from "react-icons/si";
 import { RiNetflixFill } from "@remixicon/react";
-import { FaAmazon } from "react-icons/fa";
+
 
 export const Experience = () => {
   return (
@@ -37,7 +35,7 @@ export const Experience = () => {
           </span>
 
           <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
-            <SiRadis color="#FF4438" size={50} />
+            <SiRedis color="#FF4438" size={50} />
           </span>
         </div>
 
