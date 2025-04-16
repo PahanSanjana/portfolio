@@ -1,5 +1,5 @@
 import React from "react";
-import avatarImg from "../../assets/Me-working-on-a-laptop.png";
+import avatarImg from "../../assets/Me-working-on-a-laptop1.png";
 
 export const Home = () => {
   return (
@@ -17,7 +17,7 @@ export const Home = () => {
           Contact Me
         </button>
       </div>
-      <div><img className="w-2/5" src={avatarImg} alt="" /></div>
+      <div><img className="" src={avatarImg} alt="" /></div>
     </div>
   );
 };
