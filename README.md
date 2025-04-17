@@ -64,6 +64,7 @@ Import Tailwind directives in src/index.css:
 
 3️⃣ **Component Structure**
 Organize files like this:
+```plaintext
 src/
 ├── components/
 │   ├── Header/
@@ -71,6 +72,7 @@ src/
 │   ├── Projects/
 │   ├── Contact/
 │   └── Footer/
+```
 Each folder contains a dedicated component for its section.
 
 4️⃣ **Tailwind Styling Example**
