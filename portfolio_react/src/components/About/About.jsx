@@ -4,7 +4,7 @@ import { IoArrowForward } from "react-icons/io5";
 
 export const About = () => {
   return (
-    <div
+    <div id="About"
       className="text-white md:flex overflow-hidden items-center md:flex-wrap md:justify-center bg-black/30
   shadow-x1 mx-0 md:mx-20 rounded-lg p-12"
     >
