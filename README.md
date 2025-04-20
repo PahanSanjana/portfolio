@@ -1,7 +1,11 @@
 # 🚀 Responsive Portfolio Website using React JS & Tailwind CSS
 
-[![Watch the demo video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
-🎬 **Click the image above to watch a full walkthrough of the project.** *(Replace `YOUR_YOUTUBE_VIDEO_ID` with the actual ID of your demo video)*
+
+
+
+https://github.com/user-attachments/assets/5520a754-dd15-4a2a-bdad-0cdd3815246d
+
+🎬 **watch a full walkthrough of the project.**
 
 ## 📖 Overview
 
